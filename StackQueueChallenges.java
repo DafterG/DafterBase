@@ -7,8 +7,8 @@ import java.util.Stack;
  * Exercises to practice the use of stacks and queues.
  * 
  * @author CSIS 2420 Starter Code + Brandon Torres
- * @see <a href="URL_to_NumberList.java">NumberList.java</a>
- * @see <a href="URL_to_StackQueueChallenges.java">StackQueueChallenges.java</a>
+ * @see <a href="https://github.com/DafterG/DafterBase/blob/main/NumberList.java">NumberList.java</a>
+ * @see <a href="https://github.com/DafterG/DafterBase/blob/main/StackQueueChallenges.java">StackQueueChallenges.java</a>
  */
 public class StackQueueChallenges {
 
