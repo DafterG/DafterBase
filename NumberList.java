@@ -6,9 +6,9 @@ import java.util.NoSuchElementException;
  * NumberList is a singly-linked list of double values.
  * It is designed as a practice opportunity to learn how to manipulate linked structures.
  * 
- * @author CS Starter Code + [Your Name]
- * @see <a href="URL_to_NumberList.java">NumberList.java</a>
- * @see <a href="URL_to_StackQueueChallenges.java">StackQueueChallenges.java</a>
+ * @author CS Starter Code + Brandon Torres
+ * @see <a href="https://github.com/DafterG/DafterBase/blob/main/NumberList.java">NumberList.java</a>
+ * @see <a href="https://github.com/DafterG/DafterBase/blob/main/StackQueueChallenges.java">StackQueueChallenges.java</a>
  */
 public class NumberList {
     private Node head; // first node of the list or null
